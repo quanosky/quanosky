@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Security Engineer @ Microstrategy🎓<br>🎓 Polish-Japanese Academy of Information Technology @ Computer Science<br>📚 I’m currently learning React, Python, PS, Bash, Java<br>⚡ Earned 3000PLN/month on the first IT job in my career
+💼 Security Engineer @ Microstrategy🎓<br>🎓 Polish-Japanese Academy of Information Technology @ Computer Science<br>📚 I’m currently learning React (React, React Native, React Router), Python, PS, Bash, Java<br>⚡ Earned 3000PLN/month on the first IT job in my career
 
 
 ## 🌐 Socials:
